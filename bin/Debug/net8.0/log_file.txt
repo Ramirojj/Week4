@@ -1,0 +1,80 @@
+2024-09-24 02:17:59.6268|INFO|Week4.Program|Program started
+2024-09-24 02:17:59.6547|INFO|Week4.Program|Program ended
+2024-09-24 02:20:10.5025|INFO|Week4.Program|Program started
+2024-09-24 02:20:10.5261|INFO|Week4.Program|Program ended
+2024-09-24 02:21:58.7968|INFO|Week4.Program|Program started
+2024-09-24 02:21:58.8223|ERROR|Week4.Program|File does not exist: "dk.csv"
+2024-09-24 02:21:58.8243|INFO|Week4.Program|Program ended
+2024-09-24 02:25:40.3035|INFO|Week4.Program|Program started
+2024-09-24 02:25:40.3281|ERROR|Week4.Program|File does not exist: "dk.csv"
+2024-09-24 02:25:40.3299|INFO|Week4.Program|Program ended
+2024-09-24 02:29:46.3931|INFO|Week4.Program|Program started
+2024-09-24 02:29:46.4202|ERROR|Week4.Program|File does not exist: "dk.csv"
+2024-09-24 02:29:46.4220|INFO|Week4.Program|Program ended
+2024-09-24 02:30:18.5980|INFO|Week4.Program|Program started
+2024-09-24 02:30:18.6232|ERROR|Week4.Program|File does not exist: "dk.csv"
+2024-09-24 02:30:18.6251|INFO|Week4.Program|Program ended
+2024-09-24 02:34:23.8602|INFO|Week4.Program|Program started
+2024-09-24 02:34:49.6967|INFO|Week4.Program|User choice: "2"
+2024-09-24 02:34:55.4978|INFO|Week4.Program|User choice: "2"
+2024-09-24 02:34:56.1331|INFO|Week4.Program|User choice: "2"
+2024-09-24 02:34:56.5517|INFO|Week4.Program|User choice: "2"
+2024-09-24 02:34:56.9035|INFO|Week4.Program|User choice: "2"
+2024-09-24 02:35:05.3989|INFO|Week4.Program|User choice: "1"
+2024-09-24 02:35:06.2133|INFO|Week4.Program|User choice: "1"
+2024-09-24 02:35:38.1795|INFO|Week4.Program|User choice: "clear"
+2024-09-24 02:35:38.1809|INFO|Week4.Program|Program ended
+2024-09-24 02:37:12.8724|INFO|Week4.Program|Program started
+2024-09-24 02:37:14.0826|INFO|Week4.Program|User choice: "2"
+2024-09-24 02:37:14.9281|INFO|Week4.Program|User choice: "2"
+2024-09-24 02:37:15.5020|INFO|Week4.Program|User choice: "2"
+2024-09-24 02:37:15.9667|INFO|Week4.Program|User choice: "2"
+2024-09-24 02:37:16.3789|INFO|Week4.Program|User choice: "2"
+2024-09-24 02:37:16.6583|INFO|Week4.Program|User choice: "2"
+2024-09-24 02:37:16.9761|INFO|Week4.Program|User choice: "2"
+2024-09-24 02:37:17.2463|INFO|Week4.Program|User choice: ""
+2024-09-24 02:37:17.2466|INFO|Week4.Program|Program ended
+2024-09-24 02:39:26.5582|INFO|Week4.Program|Program started
+2024-09-24 02:41:14.8816|INFO|Week4.Program|User choice: "dotnet run"
+2024-09-24 02:41:14.8956|INFO|Week4.Program|Program ended
+2024-09-24 02:41:43.1901|INFO|Week4.Program|Program started
+2024-09-24 02:46:01.6941|INFO|Week4.Program|User choice: "clear"
+2024-09-24 02:46:01.7101|INFO|Week4.Program|Program ended
+2024-09-24 02:46:09.9860|INFO|Week4.Program|Program started
+2024-09-24 02:48:16.6323|INFO|Week4.Program|User choice: "clear"
+2024-09-24 02:48:16.6449|INFO|Week4.Program|Program ended
+2024-09-24 02:48:23.4345|INFO|Week4.Program|Program started
+2024-09-24 02:48:26.1454|INFO|Week4.Program|User choice: "2"
+2024-09-24 02:50:15.4853|INFO|Week4.Program|User choice: "clear"
+2024-09-24 02:50:15.4871|INFO|Week4.Program|Program ended
+2024-09-24 02:50:22.4492|INFO|Week4.Program|Program started
+2024-09-24 02:50:23.9291|INFO|Week4.Program|User choice: "1"
+2024-09-24 02:53:10.9590|INFO|Week4.Program|User choice: "clear"
+2024-09-24 02:53:10.9618|INFO|Week4.Program|Program ended
+2024-09-24 02:53:32.3059|INFO|Week4.Program|Program started
+2024-09-24 02:55:42.3944|INFO|Week4.Program|User choice: "dotnet run"
+2024-09-24 02:55:42.4059|INFO|Week4.Program|Program ended
+2024-09-24 02:56:17.0100|INFO|Week4.Program|Program started
+2024-09-24 02:58:15.3357|INFO|Week4.Program|User choice: "clear"
+2024-09-24 02:58:15.3427|INFO|Week4.Program|Program ended
+2024-09-24 02:58:20.8294|INFO|Week4.Program|Program started
+2024-09-24 02:58:41.1704|INFO|Week4.Program|User choice: "1"
+2024-09-24 02:58:48.3727|INFO|Week4.Program|User choice: "1"
+2024-09-24 02:59:10.8930|INFO|Week4.Program|User choice: "clear"
+2024-09-24 02:59:10.8941|INFO|Week4.Program|Program ended
+2024-09-24 02:59:14.0383|INFO|Week4.Program|Program started
+2024-09-24 02:59:17.3751|INFO|Week4.Program|User choice: "1"
+2024-09-24 02:59:19.5902|INFO|Week4.Program|Duplicate name mario
+2024-09-24 03:01:15.1814|INFO|Week4.Program|User choice: "clear"
+2024-09-24 03:01:15.1839|INFO|Week4.Program|Program ended
+2024-09-24 03:01:21.9984|INFO|Week4.Program|Program started
+2024-09-24 03:01:26.9297|INFO|Week4.Program|User choice: "1"
+2024-09-24 03:02:26.1535|INFO|Week4.Program|User choice: "2"
+2024-09-24 03:06:09.7404|INFO|Week4.Program|User choice: "clear"
+2024-09-24 03:06:09.7416|INFO|Week4.Program|Program ended
+2024-09-24 03:06:15.8827|INFO|Week4.Program|Program started
+2024-09-24 03:06:30.8364|INFO|Week4.Program|User choice: "1"
+2024-09-24 03:06:34.8651|INFO|Week4.Program|Character id 43 added
+2024-09-24 03:06:53.9588|INFO|Week4.Program|User choice: "2"
+2024-09-24 03:09:12.7849|INFO|Week4.Program|User choice: "clear"
+2024-09-24 03:09:12.7867|INFO|Week4.Program|Program ended
