@@ -1,0 +1,14 @@
+/Users/ramirojaimes/Week4/bin/Debug/net8.0/Week4
+/Users/ramirojaimes/Week4/bin/Debug/net8.0/Week4.deps.json
+/Users/ramirojaimes/Week4/bin/Debug/net8.0/Week4.runtimeconfig.json
+/Users/ramirojaimes/Week4/bin/Debug/net8.0/Week4.dll
+/Users/ramirojaimes/Week4/bin/Debug/net8.0/Week4.pdb
+/Users/ramirojaimes/Week4/obj/Debug/net8.0/Week4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramirojaimes/Week4/obj/Debug/net8.0/Week4.AssemblyInfoInputs.cache
+/Users/ramirojaimes/Week4/obj/Debug/net8.0/Week4.AssemblyInfo.cs
+/Users/ramirojaimes/Week4/obj/Debug/net8.0/Week4.csproj.CoreCompileInputs.cache
+/Users/ramirojaimes/Week4/obj/Debug/net8.0/Week4.dll
+/Users/ramirojaimes/Week4/obj/Debug/net8.0/refint/Week4.dll
+/Users/ramirojaimes/Week4/obj/Debug/net8.0/Week4.pdb
+/Users/ramirojaimes/Week4/obj/Debug/net8.0/Week4.genruntimeconfig.cache
+/Users/ramirojaimes/Week4/obj/Debug/net8.0/ref/Week4.dll
